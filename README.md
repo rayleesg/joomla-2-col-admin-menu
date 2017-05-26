@@ -1,4 +1,4 @@
-# joomla-2-col-admin-menu
+# Multicolumn Admin Menu for Joomla 3.7+
 
 Do you use many extensions in Joomla or are an enthusiast that loves to try new one all the time? Well, I am!
 
